@@ -1,5 +1,5 @@
 # PREMIUM VERSI 7
-<h1 align="center"> CODED BY MR.HACKER </h1>
+<h1 align="center"> CODED BY MR.SHOZA </h1>
 <p align="center">
   <img height="300px" width="300px" src="u.gif">
 </p>
