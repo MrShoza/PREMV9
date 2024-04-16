@@ -19,6 +19,8 @@ SCRIPT INI BARU DIKEMBANGKAN OLEH HACKTIVIS MBF,, ATAU DI SEBUT DENGAN MISTER X 
   Tampilan Bawah
 <p align="center">
   <img height="350px" width="350px" src="file/bisnis3.png">
+  <img height="350px" width="350px" src="file/bisnis4.png">
+  <img height="350px" width="350px" src="file/bisnis5.png">
 </p>
 </h5>
 <h5 align="center"><font color="RED">
