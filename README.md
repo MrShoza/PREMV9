@@ -28,8 +28,8 @@ SCRIPT INI BARU DIKEMBANGKAN OLEH HACKTIVIS MBF,, ATAU DI SEBUT DENGAN MISTER X 
 </font>
 </h5>
 <p align="center">
-<img height="100px" width="100px" src="gambar/yea.gif">
-<img height="100px" width="100px" src="gambar/anime.gif">
+<img height="100px" width="100px" src="yea.gif">
+<img height="100px" width="100px" src="">
 </p>
 <p align="center">
 <a href="https://github.com/MrxMilzu"><img src="http://readme-typing-svg.herokuapp.com?color=E9967A&center=true&vCenter=true&multiline=false&lines=License+Buy+Sama+t.me/MrxMilzx" alt="UwU">
