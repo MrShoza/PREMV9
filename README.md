@@ -141,14 +141,14 @@ def aink(s):
         aink "1.KONICHIWA"
         aink "2.exit"
         helo = raw_input "Pilih 1/2: "
-if helo == "01" or helo == "1":
-   time.sleep(0.3)
-   webbrowser.open(t.me/Execvy=text?konichiwa)
-elif helo == "02" or helo == "2":
-   aink "good to do bye"
-   exit()
-else:
-   aink "SEGERA PILIH MENU STAH"
+    if helo == "01" or helo == "1":
+       time.sleep(0.3)
+       webbrowser.open(t.me/Execvy=text?konichiwa)
+    elif helo == "02" or helo == "2":
+       aink "good to do bye"
+       exit()
+    else:
+       aink "SEGERA PILIH MENU STAH"
 ```
 <h2 align="center" >->>> DONASI SEGERA </h2>
 
