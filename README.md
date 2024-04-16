@@ -28,7 +28,7 @@ SCRIPT INI BARU DIKEMBANGKAN OLEH HACKTIVIS MBF,, ATAU DI SEBUT DENGAN MISTER X 
 </font>
 </h5>
 <p align="center">
-<img height="100px" width="100px" src="gambar/hyakkimaru.gif">
+<img height="100px" width="100px" src="gambar/yea.gif">
 <img height="100px" width="100px" src="gambar/anime.gif">
 </p>
 <p align="center">
