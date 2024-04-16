@@ -97,8 +97,7 @@ pkg install wget
 #### >>> RUN TERMUX
 ```
 cd PREMTOOLV5
-pip install -r module1.txt
-pip install -r module2.txt
+bash install.sh
 python milzx.py
 ```
 
@@ -118,8 +117,7 @@ sudo apt install wget
 #### >>> RUN KALI
 ```
 cd PREMTOOLV5
-python -m pip install -r module1.txt
-python -m pip install -r module2.txt
+bash install.sh
 python milzx.py
 ```
 #### FIX EROR CRYPTO OR PYCRYPTO
