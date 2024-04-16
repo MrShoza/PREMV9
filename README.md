@@ -11,14 +11,14 @@ SCRIPT INI BARU DIKEMBANGKAN OLEH HACKTIVIS MBF,, ATAU DI SEBUT DENGAN MISTER X 
 <h5 align="center">
   Tampilan Atas
 <p align="center">
-<img height="350px" width="350px" src="gambar/logo.jpg">
-<img height="350px" width="350px" src="gambar/logo2.jpg">
+<img height="350px" width="350px" src="file/bisnis1.png">
+<img height="350px" width="350px" src="file/bisnis2.png">
 </p>
 </h5>
 <h5 align="center">
   Tampilan Bawah
 <p align="center">
-  <img height="350px" width="350px" src="gambar/logo3.jpg">
+  <img height="350px" width="350px" src="file/bisnis3.png">
 </p>
 </h5>
 <h5 align="center"><font color="RED">
