@@ -248,9 +248,9 @@ echo " |.  1   /|  -__|   _||     |  _  |__ --||  |  |" | lolcat
 echo " |.  _   \|_____|__|  |__|__|___._|_____||__|__|" | lolcat
 echo " |:  1    \                                     " | lolcat
 echo " |::.. .  /                                     " | lolcat
-echo " `-------'                                      " | lolcat
+echo "  \------/                                      " | lolcat
 echo " [V] Semua Module Berhasil di install " | lolcat
 echo "-----------------------------------------"
 echo " Next selanjutnya jalankan comand berigut " | lolcat
-echo " Contoh : python Lord.py " lolcat
+echo " Contoh : python sho.py " lolcat
                                          
