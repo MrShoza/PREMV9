@@ -98,7 +98,7 @@ pkg install wget
 ```
 cd PREMTOOLV5
 bash install.sh
-python milzx.py
+python sho.py
 ```
 
 #### >>> INSTALLATION KALI-LINUX
@@ -118,7 +118,7 @@ sudo apt install wget
 ```
 cd PREMTOOLV5
 bash install.sh
-python milzx.py
+python sho.py
 ```
 #### FIX EROR CRYPTO OR PYCRYPTO
 ```
