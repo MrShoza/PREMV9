@@ -90,7 +90,7 @@ pkg install git
 pkg install nodejs
 pkg install golang
 pkg install ruby
-git clone https://github.com/MilzxYexia/PREMTOOLV5
+git clone https://github.com/MrShoza/PREMV7
 pkg install wget
 
 ```
@@ -111,7 +111,7 @@ sudo apt install golang
 sudo apt install nodejs
 sudo apt install ruby
 sudo su
-git clone https://github.com/MilzxYexia/PREMTOOLV5
+git clone https://github.com/MrShoza/PREMV7
 sudo apt install wget
 ```
 #### >>> RUN KALI
